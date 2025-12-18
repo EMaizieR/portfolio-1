@@ -13,3 +13,5 @@ A retro-inspired Calculator with basic functions. (detailed discription)
 * [Source Code]()
 
 ![UML](https://github.com/EMaizieR/portfolio-1/blob/main/images/Untitled%20Diagram.drawio.png)
+
+## Projects for Term 2
