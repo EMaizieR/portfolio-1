@@ -21,3 +21,8 @@ A retro-inspired Calculator with basic functions. (detailed discription)
 A retro-style puzzle-adventure game following the protagonist Arden.
 
 ![Running Game](https://github.com/EMaizieR/portfolio-1/blob/main/images/Delarium.png)
+
+#### Others Who Worked On This
+
+[angieliu4](https://github.com/angieliu4)
+[ArtBlock404](https://github.com/ArtBlock404)
