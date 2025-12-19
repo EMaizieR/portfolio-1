@@ -2,6 +2,8 @@
 
 [Email me](mailto:eiramrobson@icloud.com)
 
+![My certification]()
+
 ## Projects for Term 1
 
 ### Calculator (2025)
