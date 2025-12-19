@@ -2,7 +2,7 @@
 
 [Email me](mailto:eiramrobson@icloud.com)
 
-![My certification](https://github.com/EMaizieR/portfolio-1/blob/main/images/Eira%20Robson_Computer%20Programming%201_12182025.pdf)
+![My certification](https://github.com/EMaizieR/portfolio-1/blob/main/images/Eira%20Robson_Computer%20Programming%201_12182025.pdf?raw=true)
 
 ## Projects for Term 1
 
