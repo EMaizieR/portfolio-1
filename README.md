@@ -1,4 +1,6 @@
-# Maizie Robson's Programming Portfoloio
+# Maizie Robson's Programming 1 Portfoloio
+
+[Email me](eiramrobson@icloud.com)
 
 ## Projects for Term 1
 
